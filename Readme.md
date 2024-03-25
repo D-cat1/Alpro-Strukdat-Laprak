@@ -4,4 +4,4 @@ Repository ini berisi Source code dan Laporan Praktikum Algoritma Pemrograman Da
 ## Yang Sudah Dikerjakan
 
 - Modul 1
-
+- Modul 2
