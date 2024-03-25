@@ -1,3 +1,5 @@
 *.exe
 *.docx
 .DS_Store
+*.DS_Store
+.gitignore
