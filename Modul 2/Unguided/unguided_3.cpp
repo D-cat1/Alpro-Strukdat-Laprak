@@ -3,7 +3,6 @@
 using namespace std;
 
 int main() {
-    cout << "WILDAN DAFFA' HAKIM PUTRA ANTARA/2311102055" << endl;
     int length;
     cout << "Masukkan Panjang Arr : ";
     cin >> length;
